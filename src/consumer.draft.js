@@ -1,0 +1,1 @@
+slugger = require(index.js)

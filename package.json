@@ -1,0 +1,16 @@
+{
+  "name": "@tsalex1992/slugger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/consumer.draft.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@ajar/marker": "^1.2.3"
+  }
+}
